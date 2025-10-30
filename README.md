@@ -94,7 +94,8 @@ Use Postman or Thunder Client to test the endpoints.
 
 Export your Postman collection as Backend_Assignment_Postman_Collection.json for submission.
 
-Folder Structure
+## Folder Structure
+
 backend-assignment/
 │
 ├── controllers/
