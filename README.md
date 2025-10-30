@@ -96,31 +96,27 @@ Export your Postman collection as Backend_Assignment_Postman_Collection.json for
 
 ## Folder Structure
 
+```
 backend-assignment/
-│
 ├── controllers/
-│ ├── authController.js
-│ ├── taskController.js
-│
+│   ├── authController.js
+│   └── taskController.js
 ├── middleware/
-│ ├── authMiddleware.js
-│ ├── errorMiddleware.js
-│
+│   ├── authMiddleware.js
+│   ├── errorMiddleware.js
 ├── models/
-│ ├── User.js
-│ ├── Task.js
-│
+│   ├── User.js
+│   └── Task.js
 ├── routes/
-│ ├── authRoutes.js
-│ ├── taskRoutes.js
-│
+│   ├── authRoutes.js
+│   └── taskRoutes.js
 ├── public/
-│ ├── index.html
-│ ├── login.html
-│ ├── dashboard.html
-│ ├── tasks.html
-│
+│   ├── index.html
+│   ├── login.html
+│   ├── dashboard.html
+│   └── tasks.html
 ├── .env
 ├── server.js
 ├── package.json
 └── README.md
+```
